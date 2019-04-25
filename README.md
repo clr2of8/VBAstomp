@@ -4,6 +4,22 @@ A repository of example VBA stomped documents. The **.doc** and **.xls** extensi
 ## 32-bit Office Samples
 
 ### Office 2019 32-bit VBA Stomped (with Random Bytes) Documents
-* 2019x32_word_msgbox_stomped_random_sa_2007plus.docm
-* 2019x32_excel_msgbox_stomped_random_sa_2007plus.xlsx
+* 2019x32_word_msgbox_stomped_random.docm
+* 2019x32_excel_msgbox_stomped_random.xlsx
+* 2019x32_word_msgbox_stomped_random.doc
+* 2019x32_excel_msgbox_stomped_random.xls
+
+### Office 2019 32-bit VBA Stomped (with Fake VBA) Documents
+* 2019x32_word_msgbox_stomped_fake.docm
+* 2019x32_excel_msgbox_stomped_fake.xlsx
+* 2019x32_word_msgbox_stomped_fake.doc
+* 2019x32_excel_msgbox_stomped_fake.xls
+
+### Office 2016 32-bit VBA Stomped (with Random Bytes) Documents
+* 2016x32_word_msgbox_stomped_random.docm
+* 2016x32_excel_msgbox_stomped_random.xlsx
+* 2016x32_word_msgbox_stomped_random.doc
+* 2016x32_excel_msgbox_stomped_random.xls
+
+
 
