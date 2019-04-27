@@ -1,6 +1,6 @@
 # Example VBA Stomped Documents Repository
 
-A repository of example VBA stomped documents. For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com).
+A repository of example VBA stomped documents. For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com). These are non-malicious documents and the macro is a simple message box popup.
 
 You must open the file that matches your office version to see the desired effect of VBA stomping.
 
