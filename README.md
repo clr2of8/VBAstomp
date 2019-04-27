@@ -3,29 +3,15 @@ A repository of example VBA stomped documents. The **.doc** and **.xls** extensi
 
 For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com) 
 
-## Stomped Files Random vs 
+## Stomped Files Random vs Fake Code
 
 Files tagged with **_random** have had their VBA source code replaced with random bytes using the [Adaptive Docoument Builder](https://github.com/haroldogden/adb) Python script.
 
 Files tagged with **_fakecode** have had their VBA source code replaced with the source code found in **fakecode_word_vba.txt** or **fakecode_excel_vba.txt** using the [Evil Clippy](https://github.com/outflanknl/EvilClippy) tool.
 
-### Office 2019 32-bit VBA Stomped (with Random Bytes) Documents
-* 2019x32_word_msgbox_stomped_random.docm
-* 2019x32_excel_msgbox_stomped_random.xlsx
-* 2019x32_word_msgbox_stomped_random.doc
-* 2019x32_excel_msgbox_stomped_random.xls
+## Filename Convention
 
-### Office 2019 32-bit VBA Stomped (with Fake VBA) Documents
-* 2019x32_word_msgbox_stomped_fake.docm
-* 2019x32_excel_msgbox_stomped_fake.xlsx
-* 2019x32_word_msgbox_stomped_fake.doc
-* 2019x32_excel_msgbox_stomped_fake.xls
-
-### Office 2016 32-bit VBA Stomped (with Random Bytes) Documents
-* 2016x32_word_msgbox_stomped_random.docm
-* 2016x32_excel_msgbox_stomped_random.xlsx
-* 2016x32_word_msgbox_stomped_random.doc
-* 2016x32_excel_msgbox_stomped_random.xls
-
-
-
+The file name starts with the Office version and indicates if it is a 32-bit or 64-bit install.
+|Prefix|Description|
+|2003x32|Office 2003, 32-bit|
+|2019x64|Office 2019, 64-bit|
