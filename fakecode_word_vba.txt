@@ -1,0 +1,3 @@
+Private Sub AutoOpen()
+MsgBox "Fake, fake, so fake!"
+End Sub

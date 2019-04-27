@@ -1,0 +1,3 @@
+Private Sub Workbook_Open()
+MsgBox "Fake, fake, so fake!"
+End Sub
