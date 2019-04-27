@@ -12,6 +12,8 @@ Files tagged with **_fakecode** have had their VBA source code replaced with the
 ## Filename Convention
 
 The file name starts with the Office version and indicates if it is a 32-bit or 64-bit install.
-|Prefix|Description|
-|2003x32|Office 2003, 32-bit|
-|2019x64|Office 2019, 64-bit|
+
+Prefix|Description
+---|---
+2003x32|Office 2003, 32-bit
+2019x64|Office 2019, 64-bit
