@@ -6,7 +6,7 @@ You must open the file that matches your office version to see the desired effec
 
 Note: VBA stomping does not currently work for **XLS** files, they have never-the-less been included in this repo.
 
-## Stomped Files Random vs Fake Code
+## Stomped Files (Random vs Fake Code)
 
 Files tagged with **_random** have had their VBA source code replaced with random bytes using the [Adaptive Docoument Builder](https://github.com/haroldogden/adb) Python script.
 
