@@ -1,6 +1,10 @@
 # Example VBA Stomped Documents Repository
 
-A repository of example VBA stomped documents. For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com) 
+A repository of example VBA stomped documents. For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com).
+
+You must open the file that matches your office version to see the desired effect of VBA stomping.
+
+Note: VBA stomping does not currently work for **XLS** files, they have never-the-less been included in this repo.
 
 ## Stomped Files Random vs Fake Code
 
