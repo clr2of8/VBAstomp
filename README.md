@@ -10,14 +10,14 @@ Files tagged with **_fakecode** have had their VBA source code replaced with the
 
 ## Filename Convention
 
-The file name starts with the `Office version` and indicates if it is a 32-bit or 64-bit install.
+The file name starts with the **Office version** and indicates if it is a 32-bit or 64-bit install.
 
 Prefix|Description
 ---|---
 2003x32|Office 2003, 32-bit
 2019x64|Office 2019, 64-bit
 
-The `Office version` is followed by either **_word** or **_excel** indicating whether it is an MS Word or MS Excel document.
+The **Office version** is followed by either **_word** or **_excel** indicating whether it is an MS Word or MS Excel document.
 
 The last part of the filename indicates whether the VBA source code was replace with random bytes or with new source code as described in the section above.
 
@@ -25,4 +25,4 @@ The **.doc** and **.xls** extensions are files saved in the 97-2003 format, whil
 
 ## Original Files
 
-The original files can be found in the `original_files_b4_stomping` folder.
+The original files can be found in the **original_files_b4_stomping** folder.
