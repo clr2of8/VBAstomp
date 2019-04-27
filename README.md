@@ -1,4 +1,4 @@
-# VBAstomp
+# Example VBA Stomped Documents Repository
 
 A repository of example VBA stomped documents. For more information about VBA Stomping, see [vbastomp.com](https://vbastomp.com) 
 
