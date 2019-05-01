@@ -23,9 +23,9 @@ Prefix|Description
 
 The **Office version** is followed by either **_word** or **_excel** indicating whether it is an MS Word or MS Excel document.
 
-The last part of the filename indicates whether the VBA source code was replace with random bytes or with new source code as described in the section above.
+The last part of the filename indicates whether the VBA source code was replaced with random bytes or with new source code as described in the section above.
 
-The **.doc** and **.xls** extensions are files saved in the 97-2003 format, while the **docm** and **xlsm** file formats are save in the 2007 and up format (a zip archive xml format).
+The **.doc** and **.xls** extensions are files saved in the 97-2003 format, while the **docm** and **xlsm** file formats are saved in the 2007 and up format (a zip archive xml format).
 
 ## Original Files
 
